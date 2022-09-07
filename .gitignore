@@ -30,6 +30,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+.note.txt
+.note2dogechain.txt
 
 # typescript
 *.tsbuildinfo
